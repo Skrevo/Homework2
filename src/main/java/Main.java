@@ -63,9 +63,7 @@ public class Main {
         }
         if (currentDuration > broadcast.getMAX_DURATION())
             return false;
-        if (currentDurationOfPaidParts > (broadcast.getMAX_DURATION()/2))
-            return false;
-        return true;
+        return !(currentDurationOfPaidParts > (broadcast.getMAX_DURATION() / 2));
     }
 
     private static void write(List<PartOfBroadcast> listOfParts, String fileName) throws IOException {
