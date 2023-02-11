@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="234a713c-8346-43bb-a62e-23e47cf963db" name="Changes" comment="add classes and lombok">
-      <change afterPath="$PROJECT_DIR$/src/main/java/broadcast/PartOfBroadcast.java" afterDir="false" />
+    <list default="true" id="234a713c-8346-43bb-a62e-23e47cf963db" name="Changes" comment="homework2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Advertising.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/broadcast/Advertising.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Broadcast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/broadcast/Broadcast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Interview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/broadcast/Interview.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Narrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Narrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/broadcast/Song.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674903112697</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="homework2">
+      <created>1675803196036</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675803196036</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="add classes and lombok" />
-    <option name="LAST_COMMIT_MESSAGE" value="add classes and lombok" />
+    <MESSAGE value="homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework2" />
   </component>
 </project>

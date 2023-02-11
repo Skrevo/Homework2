@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws IOException {
 
-        List<PartOfBroadcast> listOfParts = new ArrayList<>(List.of());
+        List<PartOfBroadcast> listOfParts = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
         System.out.println("Write a name of broadcast:");
         String fileName = sc.next();
